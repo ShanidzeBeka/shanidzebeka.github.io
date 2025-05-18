@@ -268,7 +268,7 @@ p {
     column-gap: 16px;
     row-gap: 40px;
     text-decoration: underline;
-    color: black;
+    
 }
 
 @media (max-width: 750px) {
